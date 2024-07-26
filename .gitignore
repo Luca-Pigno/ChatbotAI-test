@@ -16,3 +16,5 @@ yarn-error.log*
 # File di sistema
 .DS_Store
 Thumbs.db
+
+.rollup.cache
